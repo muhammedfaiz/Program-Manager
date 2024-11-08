@@ -40,7 +40,7 @@ To set up this project locally, clone the repository and follow these steps to i
      ```
    - Run the client:
      ```bash
-     npm start
+     npm run dev
      ```
 
 2. **Start the Server**:
@@ -55,7 +55,7 @@ To set up this project locally, clone the repository and follow these steps to i
      ```
    - Run the server:
      ```bash
-     npm run dev
+     npm start
      ```
 
 The application should now be running locally, with the client accessible at `http://localhost:5173` and the server accessible at `http://localhost:8000`.
